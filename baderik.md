@@ -1,3 +1,1 @@
-# Personal text
-
-Todo: add bio
+Destroy it
