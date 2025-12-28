@@ -1,3 +1,3 @@
 # Personal text
 
-Todo: add bio
+I can printf("Hello, World");
