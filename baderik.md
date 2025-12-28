@@ -1,1 +1,1 @@
-Personal text
+Destroy
