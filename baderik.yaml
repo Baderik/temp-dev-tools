@@ -1,0 +1,242 @@
+---
+exchange_rates:
+  - country: Россия
+    cities:
+      - city: Владивосток
+        banks:
+          - bank_name: Сбербанк
+            currencies:
+              - currency: USD
+                rate: 92.5
+              - currency: CNY
+                rate: 12.8
+              - currency: EUR
+                rate: 101.2
+          - bank_name: Альфа-Банк
+            currencies:
+              - currency: USD
+                rate: 92.8
+              - currency: CNY
+                rate: 12.9
+              - currency: EUR
+                rate: 101.5
+          - bank_name: ВТБ
+            currencies:
+              - currency: USD
+                rate: 92.6
+              - currency: CNY
+                rate: 12.75
+              - currency: EUR
+                rate: 101.1
+      - city: Хабаровск
+        banks:
+          - bank_name: Сбербанк
+            currencies:
+              - currency: USD
+                rate: 92.4
+              - currency: CNY
+                rate: 12.85
+              - currency: EUR
+                rate: 101.3
+          - bank_name: Альфа-Банк
+            currencies:
+              - currency: USD
+                rate: 92.7
+              - currency: CNY
+                rate: 12.95
+              - currency: EUR
+                rate: 101.4
+          - bank_name: Тинькофф
+            currencies:
+              - currency: USD
+                rate: 92.9
+              - currency: CNY
+                rate: 13
+              - currency: EUR
+                rate: 101.6
+      - city: Москва
+        banks:
+          - bank_name: Сбербанк
+            currencies:
+              - currency: USD
+                rate: 92.3
+              - currency: CNY
+                rate: 12.82
+              - currency: EUR
+                rate: 101.25
+          - bank_name: Альфа-Банк
+            currencies:
+              - currency: USD
+                rate: 92.75
+              - currency: CNY
+                rate: 12.92
+              - currency: EUR
+                rate: 101.45
+          - bank_name: ВТБ
+            currencies:
+              - currency: USD
+                rate: 92.55
+              - currency: CNY
+                rate: 12.78
+              - currency: EUR
+                rate: 101.15
+  - country: Китай
+    cities:
+      - city: Пекин
+        banks:
+          - bank_name: Bank of China
+            currencies:
+              - currency: USD
+                rate: 7.18
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.85
+          - bank_name: ICBC
+            currencies:
+              - currency: USD
+                rate: 7.19
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.86
+          - bank_name: China Construction Bank
+            currencies:
+              - currency: USD
+                rate: 7.17
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.84
+      - city: Шанхай
+        banks:
+          - bank_name: Bank of China
+            currencies:
+              - currency: USD
+                rate: 7.17
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.84
+          - bank_name: ICBC
+            currencies:
+              - currency: USD
+                rate: 7.18
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.85
+          - bank_name: Shanghai Pudong Development Bank
+            currencies:
+              - currency: USD
+                rate: 7.16
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.83
+      - city: Гуанчжоу
+        banks:
+          - bank_name: Bank of China
+            currencies:
+              - currency: USD
+                rate: 7.19
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.86
+          - bank_name: ICBC
+            currencies:
+              - currency: USD
+                rate: 7.2
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.87
+          - bank_name: Guangdong Development Bank
+            currencies:
+              - currency: USD
+                rate: 7.18
+              - currency: CNY
+                rate: 1
+              - currency: EUR
+                rate: 7.85
+  - country: США
+    cities:
+      - city: Нью-Йорк
+        banks:
+          - bank_name: Bank of America
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.139
+              - currency: EUR
+                rate: 1.09
+          - bank_name: Chase Bank
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.138
+              - currency: EUR
+                rate: 1.08
+          - bank_name: Citibank
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.14
+              - currency: EUR
+                rate: 1.1
+      - city: Лос-Анджелес
+        banks:
+          - bank_name: Bank of America
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.139
+              - currency: EUR
+                rate: 1.09
+          - bank_name: Wells Fargo
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.138
+              - currency: EUR
+                rate: 1.08
+          - bank_name: Chase Bank
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.137
+              - currency: EUR
+                rate: 1.07
+      - city: Чикаго
+        banks:
+          - bank_name: Bank of America
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.14
+              - currency: EUR
+                rate: 1.1
+          - bank_name: Chase Bank
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.139
+              - currency: EUR
+                rate: 1.09
+          - bank_name: Fifth Third Bank
+            currencies:
+              - currency: USD
+                rate: 1
+              - currency: CNY
+                rate: 0.141
+              - currency: EUR
+                rate: 1.11
